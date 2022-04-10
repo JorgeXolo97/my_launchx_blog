@@ -9,13 +9,6 @@ menu:
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
-
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
-
+Jorge Málaga estudiante de desarrollo de software, auxiliar de Software en IMOHUB.
+Certificado en CiberSeguridad por Cisco Academy y por Microsoft en servicios de nube (Azure AZ-900).
+Amante de la lectura, el cine, la música, los videojuegos, la fotografía, la naturaleza y las gomitas :DDDD explorando y observando el mundo con curiosidad cada día, aprendiendo cosas nuevas cada día de mi vida porque mi segundo nombre es CURIOSIDAD. :DDD esta será mi bitacora de LaunchX aquí llevaré un recuento de mis aventuras por esta maravillosa travesía. LKM <3 DEVS
